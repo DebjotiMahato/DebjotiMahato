@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebjyotiMahato
+- 👋 Hi, I’m @DebjotiMahato
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Doing B.Tech from National Institute of Technology, Durgapur
 - 💞️ I’m looking to collaborate on Front-End WebD
